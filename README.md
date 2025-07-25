@@ -13,7 +13,7 @@ The model is trained on the [(**Flickr8K Dataset**)](https://github.com/awsaf49/
 
 ## Model Architecture
 1. **Feature Extraction:**
-   - A CNN (e.g., InceptionV3) extracts feature vectors from input images.
+   - A CNN (Xception) extracts feature vectors from input images.
 2. **Text Processing:**
    - Tokenization and word embeddings are applied to the captions.
    - The sequences are padded to maintain uniformity.
